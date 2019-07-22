@@ -1,19 +1,19 @@
 {
-    "name": "princealikhan/laravel-mautic-api",
+    "name": "kazist/laravel-mautic-api",
     "description": "Free and Open Source Marketing Automation API",
     "license": "MIT",
     "keywords": ["mautic","laravel","lumen","princealikhan","api","sync","automation","email","marketing"],
     "authors": [
         {
-            "name": "Prince Ali Khan",
-            "email": "princealikhan08@gmail.com"
+            "name": "Dedan Irungu",
+            "email": "dedanirungu@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {
             "php": ">=5.5.9",
-            "illuminate/contracts": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*",
-            "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*",
+            "illuminate/contracts": "^5.0.1",
+            "illuminate/support": "^5.0.1",
             "mautic/api-library":"2.1.1",
             "guzzlehttp/guzzle": "^6.2",
             "graham-campbell/manager": "^4.1"
